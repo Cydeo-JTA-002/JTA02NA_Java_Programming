@@ -54,8 +54,5 @@ public class OperatorReview {
          number+=4;
         System.out.println("number = " + number);
 
-
-
-
     }
 }
