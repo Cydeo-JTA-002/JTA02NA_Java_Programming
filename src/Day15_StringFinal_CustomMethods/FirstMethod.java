@@ -8,11 +8,23 @@ public class FirstMethod {
         greetings();
         greetings();
         greetings();
+
+
     }
 
 
     public static void greetings(){
         System.out.println("Hello Class! Have a great day!");
+    }
+
+
+    public static void exampleMethod(){
+
+
+    }
+    public static void anotherExample(){
+
+
     }
 
 
